@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://i.postimg.cc/rpWWMVSz/580b57fcd9996e24bc43c53e.png" alt="" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://i.postimg.cc/JnVFzzvF/facebook-icon-transparent-background-4.png" alt="" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://i.postimg.cc/Gh7vjSL3/580b57fcd9996e24bc43c521.png" alt="" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="" height="40" width="40" /></a>
+<a href="www.facebook.com/rubaiyatsholi" target="blank"><img align="center" src="https://i.postimg.cc/JnVFzzvF/facebook-icon-transparent-background-4.png" alt="" height="40" width="40" /></a>
+<a href="www.instagram.com/___.sholi" target="blank"><img align="center" src="https://i.postimg.cc/Gh7vjSL3/580b57fcd9996e24bc43c521.png" alt="" height="40" width="40" /></a>
 </p>

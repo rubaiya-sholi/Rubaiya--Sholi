@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Rubaiya Tasnim Sholi</h1>
+<h1 align="center">Hi, I am Rubaiya Tasnim Sholi</h1>
 <h3 align="center">A student studying in Computer Science and Engineering at Daffodil International University. I am currently learning HTML5,CSS</h3>
 
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://i.postimg.cc/rpWWMVSz/580b57fcd9996e24bc43c53e.png" alt="h4s1bur" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://i.postimg.cc/JnVFzzvF/facebook-icon-transparent-background-4.png" alt="h4sibur" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://i.postimg.cc/Gh7vjSL3/580b57fcd9996e24bc43c521.png" alt="has1bur" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://i.postimg.cc/rpWWMVSz/580b57fcd9996e24bc43c53e.png" alt="" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://i.postimg.cc/JnVFzzvF/facebook-icon-transparent-background-4.png" alt="" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://i.postimg.cc/Gh7vjSL3/580b57fcd9996e24bc43c521.png" alt="" height="40" width="40" /></a>
 </p>
